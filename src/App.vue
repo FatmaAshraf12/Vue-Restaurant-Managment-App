@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import SignUp from './components/Signup.vue'
+import SignUp from './components/Sign.vue'
 export default {
   name: 'App',
   components:{
